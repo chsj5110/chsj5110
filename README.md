@@ -41,6 +41,7 @@
 
   # ASP.NET, Blazor, MySQL, API, Azure
   - https://4.217.255.124/
+  - 코드 : https://github.com/chsj5110/Portfolio/tree/BlazorWebApp
 
   # 학습 백업용 블로그
   - https://error404040.tistory.com/
